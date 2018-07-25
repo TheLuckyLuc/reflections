@@ -1,0 +1,15 @@
+**What happens when you initialize a repository? Why do you need to do it?
+
+    This starts tracking the directory you initialised git on & will show any 
+    files within as "untracked", due to the fact that you haven't committed 
+    any changes yet.
+    You need to do this so you can start tracking & committing changes to files.
+
+
+**How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+    The staging area is the bit inbetween the working directory & the repository.
+    Any files that you're going to want to commit from the working directory, 
+    need to get added to this staging area before being able to do so.
+    The benefit of this is that it allows you to review exactly what files 
+    you're going to want to commit, before doing so.
