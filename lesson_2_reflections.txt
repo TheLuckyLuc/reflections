@@ -20,3 +20,11 @@
     By using "git diff" without any arguments to check what changes you have made 
     between the working directory & the staging area. If you see that a logical 
     change has been made, commit it.
+
+
+**What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+    Branches are helpful when you want to make some experimental changes to a file, 
+    without affecting the master branch/main version. This way, you can easily jump 
+    between branches that you've named yourself & commit changes there, without 
+    disrupting any versions you've committed in the other branches.
