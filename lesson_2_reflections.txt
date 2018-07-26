@@ -28,3 +28,9 @@
     without affecting the master branch/main version. This way, you can easily jump 
     between branches that you've named yourself & commit changes there, without 
     disrupting any versions you've committed in the other branches.
+
+
+**How do the diagrams help you visualize the branch structure?
+
+    It makes it easier on the eye to see a simple linear structure showing how, 
+    each branch can go it's own way & how commits are stored in the file's history.
