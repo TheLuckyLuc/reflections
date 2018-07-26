@@ -4,3 +4,10 @@
   This allows you to get valuable feedback or other versions of the same 
   thing you're working on, allowing you to work with multiple people on 
   the same project.
+
+
+**Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+  Because you want to keep control of what you publish & don't publish.
+  A file you're working on may also be un-finished, so you wouldn't want 
+  to sync a potentially corrupt file.
