@@ -34,3 +34,10 @@
 
     It makes it easier on the eye to see a simple linear structure showing how, 
     each branch can go it's own way & how commits are stored in the file's history.
+
+
+**What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+    This will combine all the changes that want to be kept between the branches & 
+    now allow you to continue on the branch you were checked out on when doing the 
+    merge, whilst having all the added/deleted features you wanted.
