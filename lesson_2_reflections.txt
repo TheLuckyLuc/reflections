@@ -41,3 +41,11 @@
     This will combine all the changes that want to be kept between the branches & 
     now allow you to continue on the branch you were checked out on when doing the 
     merge, whilst having all the added/deleted features you wanted.
+
+
+**What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+    If there are changes made that don't conflict, it makes the process a lot 
+    faster, rather than going into the file yourself and choosing every single 
+    line to merge or not to merge.
+    The con is that you may want to do it manually for some reason.
