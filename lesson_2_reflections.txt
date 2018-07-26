@@ -13,3 +13,10 @@
     need to get added to this staging area before being able to do so.
     The benefit of this is that it allows you to review exactly what files 
     you're going to want to commit, before doing so.
+
+
+**How can you use the staging area to make sure you have one commit per logical change?
+
+    By using "git diff" without any arguments to check what changes you have made 
+    between the working directory & the staging area. If you see that a logical 
+    change has been made, commit it.
