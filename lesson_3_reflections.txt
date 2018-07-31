@@ -11,3 +11,16 @@
   Because you want to keep control of what you publish & don't publish.
   A file you're working on may also be un-finished, so you wouldn't want 
   to sync a potentially corrupt file.
+
+
+**Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+  Clones - When you copy a repository locally or from GitHub to your local computer, 
+  that's classified as a clone.
+
+  Branches - When you create a different version of the same file, without affecting 
+  the main file, that's a branch.
+
+  Forks - When you copy a repository on GitHub to GitHub, that's a fork. Essentially 
+  it's exactly the same as cloning a repository, just that it's all done on the 
+  GitHub servers.
