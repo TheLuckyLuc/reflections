@@ -31,3 +31,14 @@
   If you're going offline for a while i.e. catching a flight for example, this 
   will allow you to check what changes have been made to the remote whilst you 
   were gone by simply running git log or git diff.
+
+
+**How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+  If I had to choose something else, I guess I would have to say something like 
+  DropBox or Google OneDrive. The thing that would make those mediums harder for 
+  collaboration though, is the fact that version control would be a lot more 
+  difficult & you could potentially accidentally auto-save a file that contains 
+  incomplete code. 
+  Due to this, I believe it would be a lot easier to use Git & GitHub for 
+  version control & collaboration.
