@@ -42,3 +42,16 @@
   incomplete code. 
   Due to this, I believe it would be a lot easier to use Git & GitHub for 
   version control & collaboration.
+
+
+**When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+  When you're working on an experimental feature or simply want to make changes 
+  to a file without affecting the main "production quality" branch. It also 
+  means you can make changes to a file that has multiple contributors, without 
+  having to worry about something suddenly changing from under your feet & vice 
+  versa.
+  On the other hand, if you're working on a small project or something that doesn't 
+  have various different contributors, you can edit directly on the master branch, 
+  which will make things a bit more straightforward as you won't need to merge 
+  separate branches together.
